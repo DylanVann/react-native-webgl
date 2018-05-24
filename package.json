@@ -9,6 +9,13 @@
     "react-native",
     "webgl"
   ],
+  "files": [
+    "src",
+    "cpp",
+    "ios",
+    "android",
+    "react-native-webgl.podspec"
+  ],
   "main": "src/index.js",
   "repository": {
     "type": "git",
